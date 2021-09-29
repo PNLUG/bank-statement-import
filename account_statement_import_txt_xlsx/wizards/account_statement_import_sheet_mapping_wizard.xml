@@ -151,7 +151,7 @@
         model="ir.actions.act_window"
     >
         <field name="name">Import Mapping</field>
-        <field name="res_model">"account.statement.import.sheet.mapping.wizard"</field>
+        <field name="res_model">account.statement.import.sheet.mapping.wizard</field>
         <field
             name="binding_model_id"
             ref="model_account_statement_import_sheet_mapping"
